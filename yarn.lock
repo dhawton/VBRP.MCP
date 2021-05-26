@@ -107,10 +107,10 @@
   dependencies:
     axios "*"
 
-"@types/google-spreadsheet@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/google-spreadsheet/-/google-spreadsheet-3.0.2.tgz#7de085873ccfa06a12959f2939ece2291bbcc9b4"
-  integrity sha512-866PHvBTTEIsaRdMv/Ypz/KK3r2Bi9qwQ8WRF/h4My9lT7cJhVwTD06cTvNHHKO0qiDRjUP9TubAXY3PBJrN9w==
+"@types/google-spreadsheet@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@types/google-spreadsheet/-/google-spreadsheet-3.1.2.tgz#67e6c87ad3556f0f46f8220d0d2b3aa46335f503"
+  integrity sha512-UWSDLaPu7iCat5PC42tDou34NNgEMb7p9Xjr3Kjmbd0yilncV3Xo7Fb7elyeqfu/jkbtx0AvVqYP/6zPlc/2Rg==
 
 "@types/json-schema@^7.0.3":
   version "7.0.6"

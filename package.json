@@ -25,7 +25,7 @@
     "googleapis": "70",
     "mysql2": "^2.2.5",
     "rcon": "^1.0.3",
-    "to-readable-stream": "^2.1.0"
+    "to-readable-stream": "^3.0.0"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",

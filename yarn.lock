@@ -2893,10 +2893,10 @@ to-readable-stream@^1.0.0:
   resolved "https://registry.yarnpkg.com/to-readable-stream/-/to-readable-stream-1.0.0.tgz#ce0aa0c2f3df6adf852efb404a783e77c0475771"
   integrity sha512-Iq25XBt6zD5npPhlLVXGFN3/gyR2/qODcKNNyTMd4vbm39HUaOiAM4PMq0eMVC/Tkxz+Zjdsc55g9yyz+Yq00Q==
 
-to-readable-stream@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/to-readable-stream/-/to-readable-stream-2.1.0.tgz#82880316121bea662cdc226adb30addb50cb06e8"
-  integrity sha512-o3Qa6DGg1CEXshSdvWNX2sN4QHqg03SPq7U6jPXRahlQdl5dK8oXjkU/2/sGrnOZKeGV1zLSO8qPwyKklPPE7w==
+to-readable-stream@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/to-readable-stream/-/to-readable-stream-3.0.0.tgz#7c4aa6e3e2413c86c6276a57780dadfba226762f"
+  integrity sha512-vD2LytT6DxPynBa1xbMtswY9gGqj27wNbh2uvI5OhBe+mrGLurRWRQZyQn3812sqlQRtUJwaKVshG+PoGwbPDQ==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
